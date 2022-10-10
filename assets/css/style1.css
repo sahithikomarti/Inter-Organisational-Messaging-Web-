@@ -1,0 +1,75 @@
+h1 {
+	color:white;
+	font-weight: bolder;
+	text-align: center
+  }
+ .form-group{
+	 
+	 width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px;
+	box-sizing: border-box;
+	font-weight: 900;
+	text-align:center
+ }
+ .login-container {
+	max-width: 1100px;
+    background: #777;
+	margin: 30px auto;
+	overflow: hidden;
+}
+input[type=email], input[type=password] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+  }
+  input[type=name]{
+	padding: 12px 20px;
+	width: 100%; 
+	margin: 8px 0; 
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+  }
+  .mt-4{
+	color:white;
+	font-weight: bolder;
+	text-align: center 
+  }
+  
+  button {
+	background-color: white;
+	color: black;
+	padding: 14px 20px;
+	margin: 8px 0;
+	font-weight: 900;
+	cursor: pointer;
+	width: 100%;
+	box-sizing: border-box;
+  }
+  button:hover {
+	opacity: 0.8;
+  }
+  .alert{
+	color: red;
+	font-weight: 900;
+	text-align: center 
+
+  }
+  
+  .alert-msg{
+	color: red;
+	font-weight: 900;
+	text-align: center 
+
+  }
+  .alert-error{
+	color: red;
+	font-weight: 900;
+	text-align: center 
+
+  }
