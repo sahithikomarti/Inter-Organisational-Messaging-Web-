@@ -1,0 +1,2 @@
+# Inter-Organisational-Messaging-Web-
+Inter organizational Messaging web app is a web application build using Node.js. Messaging web apps are platforms where any user can able to access it and they are not secured .Users are required to know other persons their mobile number to chat with them. It might be difficult of getting their numbers. Our project aims at building a inter organizational messaging web app that can be accessed by the students within the organization and it is secured.
